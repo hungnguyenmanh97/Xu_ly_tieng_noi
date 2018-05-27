@@ -1,0 +1,3 @@
+#!/home/hung/mybot_ws/src/mybot_control/script/venv/bin/python
+from numba.pycc import main
+main()
